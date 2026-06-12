@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / env
+.env
+.env.*
+*.key
+*.pem
+
+# macOS
+.DS_Store
+
+# Outputs gerados pelas skills
+redecoracao/output/
+**/produtos/
+**/exploracao/
+**/edicoes/
+**/aprovado/
